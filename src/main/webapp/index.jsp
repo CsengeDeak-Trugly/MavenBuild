@@ -70,9 +70,7 @@
                                 href="https://www.w3schools.com/w3css/tryw3css_templates_band.htm" 
                                 target="_blank"  title="Band Demo">
                                     <img 
-                                        src="./img_temp_band.jpg" 
-                                        style="width:98%;margin:20px 0" 
-                                        alt="Band Template">
+                                     
                             </a><br>
                             <div class="w3-row">
                                 <div class="w3-col m6">
